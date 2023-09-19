@@ -1,2 +1,0 @@
-# laravel
-Project Laravel Supriadi
